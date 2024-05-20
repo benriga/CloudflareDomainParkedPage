@@ -1,3 +1,3 @@
-React code for www.electgregorywallace.com
+React code for all my domains parked on Cloudflare
 
-All code copyright Greg T. Wallace, 2020-21
+All code copyright Ben Riga 2024
